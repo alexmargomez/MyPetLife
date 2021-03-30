@@ -1,4 +1,4 @@
 -Alexmar Gomez
 -MyPetLife 
--Aplicacion para el uso de mascotas
--con ideas creativas de la web  
+-Plantilla apra aplicacion sobre mascotas
+-aprendizaje sobre la implementacion de python en la web
